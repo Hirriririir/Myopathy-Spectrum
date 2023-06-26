@@ -35,8 +35,8 @@ write.csv(topTags(et_Myopathy_Wasting, n=10000), "DEG/EdgeR Myopathy vs. Wasting
 
 
 ## DEG unique pathway Phenotype_4#----
-unique(Meta_all$Phenotype_4)
-mygroups <- Meta_all$Phenotype_4
+unique(Meta_all$Phenotype_2)
+mygroups <- Meta_all$Phenotype_2
 
 y <- DGEList(counts=merge_data, genes=merge_L$Symbol, group = mygroups) #
 y <- calcNormFactors(y, method ='TMM')
@@ -70,6 +70,10 @@ write.csv(topTags(et_Titinopathy_fast, n=10000), "DEG/EdgeR Titinopathy vs. fast
 et_slow_fast <- exactTest(y, pair=c('Control (fast death)', 'Control (slow death)') ) 
 write.csv(topTags(et_slow_fast, n=10000), "DEG/EdgeR slow vs. fast.csv",row.names = FALSE)
 
+#  FSHD Vs. Control (accident death)
+et_FSHD_accident <- exactTest(y, pair=c('Control (accident death)', 'FSHD') ) 
+write.csv(topTags(et_FSHD_accident, n=10000), "DEG/EdgeR FSHD vs. accident death.csv",row.names = FALSE)
+
 
 # DEG batch validation #----
 unique(Meta_all$Phenotype_6)
@@ -78,6 +82,12 @@ mygroups <- Meta_all$Phenotype_6
 y <- DGEList(counts=merge_data, genes=merge_L$Symbol, group = mygroups) #
 y <- calcNormFactors(y, method ='TMM')
 y <- estimateDisp(y)
+
+
+
+#  IBM Vs. Control (amputee)
+et_IBM_Amputee <- exactTest(y, pair=c('Control (amputee)', 'IBM') ) 
+write.csv(topTags(et_IBM_Amputee, n=10000), "Validation/[Batch-combatseq] EdgeR IBM vs. Amputee.csv",row.names = FALSE)
 
 # Helsinki: Titinopathy vs Control (amputee)
 et_Titinopathy_Amputee <- exactTest(y, pair=c('Control (amputee)', 'Titinopathy') ) 
