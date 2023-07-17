@@ -1,7 +1,7 @@
 # Myopathy spectrum
 > A integration analysis of bulk RNA-seq data from human skeletal muscles (1221 muscles x 9231 genes). 
 
-![image](./Figures/Myopathy_spectrum.png)
+![image](./Figures/Myopathy_specturm.png)
 
 ## Dataset description
 - **Date size**: 1221 muscles x 9231 genes

@@ -1,0 +1,15 @@
+Status	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/4974/4974_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/5930/5930_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/8061/8061_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM2612/FM2612_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM2621/FM2621_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM2627/FM2627_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM3198/FM3198_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM3443/FM3443_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM3479/FM3479_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM3491/FM3491_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM356/FM356_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam	/proj/pehackma/project_RNA/RNA_polyA/oxford7/star_Gencode.v39/FM4220/FM4220_RNA_polyA_GRCh38_Aligned.sortedByCoord.out.bam
+Assigned	41568789	39898536	43457510	45242695	39625166	45943993	37115431	44206483	46010229	44145789	48191884	44713875
+Unassigned_Unmapped	864903	842240	1516527	1445423	1063502	1051101	1065250	1155250	953312	1090534	1023698	1335634
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	14718842	9397285	24352521	40104272	24259181	18790603	19049845	17010718	13410748	11597417	14678136	13752661
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2154716	2230932	3669445	4458030	3354445	2945674	2551471	3211354	2508251	4386592	3445586	4470604
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1516423	1369492	1637203	1711892	1305928	1520082	1327259	1507554	1548652	1542724	1565943	1512720
