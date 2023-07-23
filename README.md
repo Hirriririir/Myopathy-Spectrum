@@ -64,4 +64,8 @@
 - **Control (ventilator case)**: Ventilator Case All cases on a ventilator immediately before death [Diseased].
 - **Control (slow death)** : Slow death Death after a long illness, with a terminal phase longer than 1 day (commonly cancer or chronic pulmonary disease); deaths that are not unexpected [Wasting].
 
+## **Acknowledgement:**
+
+We thank the participants and their families who donated their muscle tissues for research purposes. We would also like to extend special thanks to the authors of these publicly available muscle datasets, which will facilitate further research in the future.
+
 ## Citation
