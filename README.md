@@ -57,7 +57,7 @@
 |   Distal   ADB-filaminopathy   |      1      |    Helsinki    |       mRNA        |
 |     Myopathy   (Unsolved)      |     24      |    Helsinki    |       mRNA        |
 
-[GTEx phenotype catgeories](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html](https://biospecimens.cancer.gov/resources/sops/docs/GTEx_SOPs/BBRB-PM-0003-F6%20GTEx%20Clinical%20Collection%20Case%20Report%20Form%20(CRF).pdf)):
+[GTEx phenotype catgeories](https://biospecimens.cancer.gov/resources/sops/docs/GTEx_SOPs/BBRB-PM-0003-F6%20GTEx%20Clinical%20Collection%20Case%20Report%20Form%20(CRF).pdf):
 - **Control (accident death)**: Violent and fast death Deaths due to accident, blunt force trauma or suicide, terminal phase estimated at < 10 min [Healthy]. 
 - **Control (unexpected death)**: Fast death of natural causes Sudden unexpected deaths of people who had been reasonably healthy, after a terminal phase estimated at < 1 hr (with sudden death from a myocardial infarction as a model cause of death for this category) [Healthy].
 - **Control (intermediate death)**: Intermediate death Death after a terminal phase of 1 to 24 hrs (not classifiable as 2 or 4); patients who were ill but death was unexpected [Diseased].
