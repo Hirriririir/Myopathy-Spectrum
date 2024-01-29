@@ -7,7 +7,7 @@
 - **Date size**: 1221 muscles x 9231 genes
 - **Data source**: GTEx database (n = 803), GEO datbase (n = 291), Helsinki (n = 127)
 - **Phenotype**: 292 myopathies, 929 controls
-- **Sequencing method**: 918 sequenced in mRNA (polyA) and 303 sequenced in total RNA (ribo)  
+- **Sequencing method**: 930 sequenced in mRNA (polyA) and 291 sequenced in total RNA (ribo)  
 
 
 ## Inclusion and exclusion criteria
