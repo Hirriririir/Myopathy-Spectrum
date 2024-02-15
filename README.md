@@ -1,4 +1,4 @@
-# Myopathy spectrum
+# Myopathy spectrum (stage 1)
 > A integration analysis of bulk RNA-seq data from human skeletal muscles (1221 muscles x 9231 genes). 
 
 ![image](./Figures/Myopathy_specturm.png)
