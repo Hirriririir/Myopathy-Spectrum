@@ -69,3 +69,8 @@
 We thank the participants and their families who donated their muscle tissues for research purposes. We would also like to extend special thanks to the authors of these publicly available muscle datasets, which will facilitate further research in the future.
 
 ## Citation
+Zhong, H., Sian, V., Johari, M. et al. [Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions]([url](https://doi.org/10.1038/s42003-024-06143-3)). Commun Biol 7, 438 (2024). 
+        
+        
+        
+        
