@@ -1,9 +1,10 @@
-# Myopathy spectrum (stage 1)
-> An integration analysis of bulk RNA-seq data from human skeletal muscles (1221 muscles x 9231 genes). 
+# Myopathy spectrum
+> An integration analysis of bulk RNA-seq data from human skeletal muscles (1221 muscles x 9231 genes).
 
-![image](./Figures/Myopathy_specturm.png)
+![image](./Figures/Flowchart.png)
 
 ## Dataset description
+
 - **Date size**: 1221 muscles x 9231 genes
 - **Data source**: GTEx database (n = 803), GEO datbase (n = 291), Helsinki (n = 127)
 - **Phenotype**: 292 myopathies, 929 controls
@@ -17,6 +18,7 @@
 
 
 ## Folder descriptions
+![image](./Figures/Myopathy_specturm.png)
 - **DEG**: Differential expression analysis (DEG) results exported from edgeR.
 - **Meta**: Meta data (Data_source/Geo_accession/Author_Date/PMID/Sample_id/Gsm_accession/Casual_gene/Phenotype/Biopsy site/sequencing method/sequencing platform/Se/Age range) for the integration dataset.
 - **TAPE**: Tissue deconvoluation results annotated with two human skeletal msuclse single-cell datasets ([Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) and [GSE143704](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143704)).
@@ -69,7 +71,15 @@
 We thank the participants and their families who donated their muscle tissues for research purposes. We would also like to extend special thanks to the authors of these publicly available muscle datasets, which will facilitate further research in the future.
 
 ## Citation
-Zhong, H., Sian, V., Johari, M., Katayama, S., Oghabian, A., Jonson, P. H., Hackman, P., Savarese, M., & Udd, B. (2024). Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions. Communications biology, 7(1), 438. [https://doi.org/10.1038/s42003-024-06143-3](https://doi.org/10.1038/s42003-024-06143-3)
+Zhong, H., Sian, V., Johari, M., Katayama, S., Oghabian, A., Jonson, P. H., Hackman, P., Savarese, M., & Udd, B. (2024). Revealing myopathy spectrum: integrating transcriptional and clinical features of human skeletal muscles with varying health conditions. Communications biology, 7(1), 438. [https://doi.org/10.1038/s42003-024-06143-3
+        
+        
+        
+        ](https://doi.org/10.1038/s42003-024-06143-3
+        
+        
+        
+        )
         
         
         
